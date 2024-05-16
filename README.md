@@ -19,6 +19,10 @@
 
 - [Serverless Architecture Demystified: Strategies for Success and Pitfalls to Avoid](https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fblog.levelupcoding.co%2Fp%2Fluc-41-serverless-architecture-demystified-strategies-success-pitfalls-avoid%3Futm_source=tldrwebdev/1/0100018dc669fda8-66cd0093-573f-4f8a-8a3c-f80a5228d804-000000/T1-CwQLZ7KStDgWOzeJtIjo3zCpekm5L1yRGK3_MQkA=341)
 
+## Code Reviews<a id="code-reviews"></a>
+
+- [How not to do code reviews](https://www.aviator.co/blog/how-not-to-do-code-reviews/)
+
 ## A/B Testing<a id="ab-testing"></a>
 
 - [8 annoying A/B testing mistakes every engineer should know](https://posthog.com/product-engineers/ab-testing-mistakes)
