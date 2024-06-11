@@ -22,6 +22,7 @@
 ## Code Reviews<a id="code-reviews"></a>
 
 - [How not to do code reviews](https://www.aviator.co/blog/how-not-to-do-code-reviews/)
+- [What makes a great contribution to a codebase?](https://blog.eliperkins.com/great-contributions-to-a-codebase)
 
 ## A/B Testing<a id="ab-testing"></a>
 
