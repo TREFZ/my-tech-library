@@ -23,6 +23,7 @@
 
 - [How not to do code reviews](https://www.aviator.co/blog/how-not-to-do-code-reviews/)
 - [What makes a great contribution to a codebase?](https://blog.eliperkins.com/great-contributions-to-a-codebase)
+- [Thoughts on Code Reviews](https://hybridhacker.email/p/thoughts-on-code-reviews?r=2bjtip&utm_medium=ios&utm_source=tldrwebdev&triedRedirect=true)
 
 ## A/B Testing<a id="ab-testing"></a>
 
