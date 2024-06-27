@@ -34,3 +34,4 @@
 - [Path to Senior Engineer handbook](https://github.com/jordan-cutler/path-to-senior-engineer-handbook)
 - [The Boring Technology Club](https://boringtechnology.club/)
 - [JSDoc as an alternative TypeScript syntax](https://alexharri.com/blog/jsdoc-as-an-alternative-typescript-syntax)
+- [A Better Way To Code: Documentation Driven Development](https://unicorn-utterances.com/posts/documentation-driven-development)
