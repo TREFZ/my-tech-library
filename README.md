@@ -35,3 +35,8 @@
 - [The Boring Technology Club](https://boringtechnology.club/)
 - [JSDoc as an alternative TypeScript syntax](https://alexharri.com/blog/jsdoc-as-an-alternative-typescript-syntax)
 - [A Better Way To Code: Documentation Driven Development](https://unicorn-utterances.com/posts/documentation-driven-development)
+
+## Handy tools
+
+- [Online CSS Analyzer](https://www.projectwallace.com/analyze-css)
+- [HTML Size Analyzer](https://www.debugbear.com/html-size-analyzer)
