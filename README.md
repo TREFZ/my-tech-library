@@ -6,6 +6,10 @@
 - [\[es6\] import, export, default cheatsheet](https://hackernoon.com/import-export-default-require-commandjs-javascript-nodejs-es6-vs-cheatsheet-different-tutorial-example-5a321738b50f)
 - [How to rewrite classes using closures in JavaScript](https://gaurangtandon.com/blog/javascript-class-closure)
 
+## Front-end Architecture<a id="front-end-architecture"></a>
+
+- [Islands Architecture](https://www.patterns.dev/vanilla/islands-architecture/)
+
 ## CI/CD<a id="cicd"></a>
 
 - [Too much of a good thing: the trade-off we make with tests](https://ntietz.com/blog/too-much-of-a-good-thing-the-cost-of-excess-testing/)
@@ -29,6 +33,11 @@
 
 - [8 annoying A/B testing mistakes every engineer should know](https://posthog.com/product-engineers/ab-testing-mistakes)
 
+## Handy tools<a id="handy-tools"></a>
+
+- [Online CSS Analyzer](https://www.projectwallace.com/analyze-css)
+- [HTML Size Analyzer](https://www.debugbear.com/html-size-analyzer)
+
 ## More reading<a id="more-reading"></a>
 
 - [Path to Senior Engineer handbook](https://github.com/jordan-cutler/path-to-senior-engineer-handbook)
@@ -37,7 +46,3 @@
 - [A Better Way To Code: Documentation Driven Development](https://unicorn-utterances.com/posts/documentation-driven-development)
 - [Good programmers worry about data structures and their relationships](https://read.engineerscodex.com/p/good-programmers-worry-about-data)
 
-## Handy tools
-
-- [Online CSS Analyzer](https://www.projectwallace.com/analyze-css)
-- [HTML Size Analyzer](https://www.debugbear.com/html-size-analyzer)
