@@ -32,6 +32,7 @@
 ## A/B Testing<a id="ab-testing"></a>
 
 - [8 annoying A/B testing mistakes every engineer should know](https://posthog.com/product-engineers/ab-testing-mistakes)
+- [A/B testing mistakes I learned the hard way](https://newsletter.posthog.com/p/ab-testing-mistakes-i-learned-the)
 
 ## Handy tools<a id="handy-tools"></a>
 
