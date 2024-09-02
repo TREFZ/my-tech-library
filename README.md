@@ -1,12 +1,16 @@
 # My tech library
 
+## Career path
+
+- [Should You Become an Engineering Manager?](https://www.developing.dev/p/should-you-become-an-engineering)
+
 ## JavaScript fundamentals<a id="javascript-fundamentals"></a>
 
 - [Node Modules at War: Why CommonJS and ES Modules Can’t Get Along](https://redfin.engineering/node-modules-at-war-why-commonjs-and-es-modules-cant-get-along-9617135eeca1)
 - [\[es6\] import, export, default cheatsheet](https://hackernoon.com/import-export-default-require-commandjs-javascript-nodejs-es6-vs-cheatsheet-different-tutorial-example-5a321738b50f)
 - [How to rewrite classes using closures in JavaScript](https://gaurangtandon.com/blog/javascript-class-closure)
 
-## Front-end Architecture<a id="front-end-architecture"></a>
+## Front-end architecture<a id="front-end-architecture"></a>
 
 - [Islands Architecture](https://www.patterns.dev/vanilla/islands-architecture/)
 
@@ -23,13 +27,13 @@
 
 - [Serverless Architecture Demystified: Strategies for Success and Pitfalls to Avoid](https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fblog.levelupcoding.co%2Fp%2Fluc-41-serverless-architecture-demystified-strategies-success-pitfalls-avoid%3Futm_source=tldrwebdev/1/0100018dc669fda8-66cd0093-573f-4f8a-8a3c-f80a5228d804-000000/T1-CwQLZ7KStDgWOzeJtIjo3zCpekm5L1yRGK3_MQkA=341)
 
-## Code Reviews<a id="code-reviews"></a>
+## Code reviews<a id="code-reviews"></a>
 
 - [How not to do code reviews](https://www.aviator.co/blog/how-not-to-do-code-reviews/)
 - [What makes a great contribution to a codebase?](https://blog.eliperkins.com/great-contributions-to-a-codebase)
 - [Thoughts on Code Reviews](https://hybridhacker.email/p/thoughts-on-code-reviews?r=2bjtip&utm_medium=ios&utm_source=tldrwebdev&triedRedirect=true)
 
-## A/B Testing<a id="ab-testing"></a>
+## A/B testing<a id="ab-testing"></a>
 
 - [8 annoying A/B testing mistakes every engineer should know](https://posthog.com/product-engineers/ab-testing-mistakes)
 - [A/B testing mistakes I learned the hard way](https://newsletter.posthog.com/p/ab-testing-mistakes-i-learned-the)
