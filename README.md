@@ -18,6 +18,7 @@
 
 - [Too much of a good thing: the trade-off we make with tests](https://ntietz.com/blog/too-much-of-a-good-thing-the-cost-of-excess-testing/)
 - [To test or not to test, a technical perspective](https://web.dev/ta-what-to-test/)
+- [SMURF: Beyond the Test Pyramid](https://testing.googleblog.com/2024/10/smurf-beyond-test-pyramid.html)
 
 ## Caching<a id="caching"></a>
 
