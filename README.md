@@ -51,6 +51,7 @@
 - [Path to Senior Engineer handbook](https://github.com/jordan-cutler/path-to-senior-engineer-handbook)
 - [The Boring Technology Club](https://boringtechnology.club/)
 - [JSDoc as an alternative TypeScript syntax](https://alexharri.com/blog/jsdoc-as-an-alternative-typescript-syntax)
+- [Using Typescript in node.js scripts without actually writing Typescript](https://www.jonathancreamer.com/using-typescript-in-node-js-scripts-without-actually-writing-typescript)
 - [A Better Way To Code: Documentation Driven Development](https://unicorn-utterances.com/posts/documentation-driven-development)
 - [Good programmers worry about data structures and their relationships](https://read.engineerscodex.com/p/good-programmers-worry-about-data)
 - [Good software development habits](https://zarar.dev/good-software-development-habits/)
