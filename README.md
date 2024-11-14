@@ -4,6 +4,7 @@
 
 - [Should You Become an Engineering Manager?](https://www.developing.dev/p/should-you-become-an-engineering)
 - [The slow death of the hands-on engineering manager](https://zaidesanton.substack.com/p/the-slow-death-of-the-hands-on-engineering)
+- [What I tell people new to on-call](https://ntietz.com/blog/what-i-tell-people-new-to-oncall/)
 
 ## JavaScript fundamentals<a id="javascript-fundamentals"></a>
 
