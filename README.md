@@ -15,6 +15,7 @@
 ## Front-end architecture<a id="front-end-architecture"></a>
 
 - [Islands Architecture](https://www.patterns.dev/vanilla/islands-architecture/)
+- [Mistakes engineers make in large established codebases](https://www.seangoedecke.com/large-established-codebases/)
 
 ## CI/CD<a id="cicd"></a>
 
