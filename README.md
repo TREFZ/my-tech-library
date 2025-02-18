@@ -47,6 +47,10 @@
 - [Online CSS Analyzer](https://www.projectwallace.com/analyze-css)
 - [HTML Size Analyzer](https://www.debugbear.com/html-size-analyzer)
 
+## Page speed performance<a id="page-speed-performance"></a>
+
+- [There are a lot of ways to break up long tasks in JavaScript](https://macarthur.me/posts/long-tasks/)
+
 ## More reading<a id="more-reading"></a>
 
 - [Path to Senior Engineer handbook](https://github.com/jordan-cutler/path-to-senior-engineer-handbook)
