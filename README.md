@@ -5,6 +5,7 @@
 - [Should You Become an Engineering Manager?](https://www.developing.dev/p/should-you-become-an-engineering)
 - [The slow death of the hands-on engineering manager](https://zaidesanton.substack.com/p/the-slow-death-of-the-hands-on-engineering)
 - [What I tell people new to on-call](https://ntietz.com/blog/what-i-tell-people-new-to-oncall/)
+- [The 7 Behaviors That Separate Juniors From Seniors](https://alifeengineered.substack.com/p/the-7-behaviors-that-separate-juniors)
 
 ## JavaScript fundamentals<a id="javascript-fundamentals"></a>
 
