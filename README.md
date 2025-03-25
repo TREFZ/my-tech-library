@@ -17,6 +17,7 @@
 
 - [Islands Architecture](https://www.patterns.dev/vanilla/islands-architecture/)
 - [Mistakes engineers make in large established codebases](https://www.seangoedecke.com/large-established-codebases/)
+- [The Frontend Treadmill](https://polotek.net/posts/the-frontend-treadmill)
 
 ## CI/CD<a id="cicd"></a>
 
