@@ -6,6 +6,7 @@
 - [The slow death of the hands-on engineering manager](https://zaidesanton.substack.com/p/the-slow-death-of-the-hands-on-engineering)
 - [What I tell people new to on-call](https://ntietz.com/blog/what-i-tell-people-new-to-oncall/)
 - [The 7 Behaviors That Separate Juniors From Seniors](https://alifeengineered.substack.com/p/the-7-behaviors-that-separate-juniors)
+- [The manager I hated and the lesson he taught me](https://www.blog4ems.com/p/the-manager-i-hated)
 
 ## JavaScript fundamentals<a id="javascript-fundamentals"></a>
 
