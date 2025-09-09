@@ -64,4 +64,5 @@
 - [A Better Way To Code: Documentation Driven Development](https://unicorn-utterances.com/posts/documentation-driven-development)
 - [Good programmers worry about data structures and their relationships](https://read.engineerscodex.com/p/good-programmers-worry-about-data)
 - [Good software development habits](https://zarar.dev/good-software-development-habits/)
+- [How to Lead Your Team when the House Is on Fire](https://peterszasz.com/how-to-lead-your-team-when-the-house-is-on-fire/?utm_source=tldrwebdev)
 
