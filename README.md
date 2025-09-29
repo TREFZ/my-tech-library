@@ -65,4 +65,5 @@
 - [Good programmers worry about data structures and their relationships](https://read.engineerscodex.com/p/good-programmers-worry-about-data)
 - [Good software development habits](https://zarar.dev/good-software-development-habits/)
 - [How to Lead Your Team when the House Is on Fire](https://peterszasz.com/how-to-lead-your-team-when-the-house-is-on-fire/?utm_source=tldrwebdev)
+- [My Quarterly System Health Check-in](https://blog.nilenso.com/blog/2025/09/05/my-quarterly-system-health-check-in-beyond-the-dashboard/)
 
