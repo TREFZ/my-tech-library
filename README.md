@@ -33,7 +33,7 @@
 
 ## Hosting<a id="hosting"></a>
 
-- [Serverless Architecture Demystified: Strategies for Success and Pitfalls to Avoid]([https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fblog.levelupcoding.co%2Fp%2Fluc-41-serverless-architecture-demystified-strategies-success-pitfalls-avoid)
+- [Serverless Architecture Demystified: Strategies for Success and Pitfalls to Avoid](https://blog.levelupcoding.com/p/serverless-architecture-demystified-strategies-for-success-and-pitfalls-to-avoid)
 
 ## Code reviews<a id="code-reviews"></a>
 
